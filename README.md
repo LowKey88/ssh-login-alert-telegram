@@ -1,3 +1,4 @@
+# !!! PROJECT COPIED FROM THIS REPOSITORY: https://github.com/MyTheValentinus/ssh-login-alert-telegram (respect license) !!!
 ## Alert via telegram when user logon via SSH
 
 Work on all popular linux system (Debian, Ubuntu, Arch Linux etc..)
@@ -19,4 +20,7 @@ Work on all popular linux system (Debian, Ubuntu, Arch Linux etc..)
 ```bash deploy.sh```
 
 4) Confirm that the script is working by logging you to ssh again.
+
+
+
 
